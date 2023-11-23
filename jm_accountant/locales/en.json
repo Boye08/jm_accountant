@@ -1,0 +1,34 @@
+{
+    "Name": "accountant",
+    "permission": "You don't seem to hav permission for this.",
+    "recive": "you have washed",
+    "recive2": " and you have recived ",
+    "recive3": " Dollar",
+    "Discord-Log": "Customer's full name :",
+    "Discord-Log2": "Money converted into :",
+    "Discord-Log3": "Dollar",
+    "Discord-Log4": "Stated percentage :",
+    "Discord-Log5": "Stated date :",
+    "Discord-Log6": "accountant info",
+
+    "missing-Webhook": "Missing Webhook...",
+    "open-target": "Open the Auditor Menu",
+    "open-menu-TextUI": "[E] - Open the Auditor Menu",
+    "close": "You exited the menu",
+    "wait": "Converting",
+
+    "question-label": "The auditor - Laundry",
+    "question1": "Money you want and change.",
+    "question1-description": "Amount to be posted",
+    "question2": "Percentage rate",
+    "question2-description": "Percentage rate for revision. Without %-sign | Max =",
+    "question3": "Has there identity been verified?",
+    "question4": "date for revision",
+    "question5": "Customer's full name",
+    "question5-description": "The full name of the customer who must have registered his money.",
+
+    "context-title": "accountant",
+    "context-undertitle": "Company Actions",
+    "context-option": "Post cash",
+    "context-option-description": "Post cash for customers."
+  }

@@ -1,0 +1,35 @@
+{
+    "Name": "Revisoren",
+    "permission": "Du har vist ikke tiladelse til at gøre det der",
+    "fullname": "Kundens fulde-navn",
+    "recive": "du har vasket",
+    "recive2": " Og du har modtaget ",
+    "recive3": " Kr,-",
+    "Discord-Log": "Kundens fulde-navn :",
+    "Discord-Log2": "Penge der er lavet om :",
+    "Discord-Log3": "KR,-",
+    "Discord-Log4": "Angivet Procentsats :",
+    "Discord-Log5": "Angivet dato :",
+    "Discord-Log6": "Revisor information",
+
+    "missing-Webhook": "Mangler Webhook...",
+    "open-target": "Open Revisor Menuen",
+    "open-menu-TextUI": "[E] - Open Revisor Menuen",
+    "close": "Du gik ud af menuen",
+    "wait": "Omdanner",
+
+    "question-label": "Revisoren - Hvidvask",
+    "question1": "Penge du ønsker og lave om.",
+    "question1-description": "Beløb som skal bogføres",
+    "question2": "Procentsats",
+    "question2-description": "Procentsats for revision. Uden %-tegn | Max =",
+    "question3": "Er identitet blivet verificeret?",
+    "question4": "Dato for revision",
+    "question5": "Kundens fulde-navn",
+    "question5-description": "Kundens fulde navn, som skal have bogført sine penge.",
+
+    "context-title": "Revisoren",
+    "context-undertitle": "Firma Handlinger",
+    "context-option": "Bogfør kontanter",
+    "context-option-description": "Bogfør kontanter for kunder."
+  }
